@@ -29,6 +29,7 @@ Gemini 1.5 Flash: Escolhido pela alta velocidade de processamento e excelente ca
 [x] Relatório Estruturado: Gera automaticamente um status de APROVADO ou REVISÃO MANUAL, incluindo uma tabela comparativa dos dados extraídos.
 
 🔧 Como usar
+
 ** 1. Instale as dependências:**
 
 ** 2. Configure sua API KEY: Obtenha sua chave no Google AI Studio e insira na variável API_KEY no script.**
@@ -36,6 +37,7 @@ Gemini 1.5 Flash: Escolhido pela alta velocidade de processamento e excelente ca
 ** 3. Execute o auditor**
 
 Roadmap / Próximos Passos
+
 [ ] Integrar com o projeto de RPA (Hermes Prospector) para validar documentos de leads automaticamente.
 
 [ ] Criar uma interface gráfica para facilitar o upload por usuários não técnicos.
