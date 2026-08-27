@@ -7,3 +7,5 @@ historico_geral.csv
 responsaveis.csv
 __pycache__/
 *.pyc
+organizar.py
+informe_ics_hoje.py
