@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+credenciais.json
+*.json
+historico_geral.csv
+responsaveis.csv
+__pycache__/
+*.pyc
